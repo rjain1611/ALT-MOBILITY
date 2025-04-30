@@ -25,7 +25,7 @@ This project presents an end-to-end analysis of customer, order, and payment dat
 ## 📊 Key Insights
 
 ### ✅ Sales & Orders
-- Total orders: 2,880 | Total revenue: ₹1M+
+- Total orders: 15,000 | Total revenue: ₹38,08,899
 - Revenue peaked in 2021 and showed a steady decline post that.
 
 ### ✅ Customers
